@@ -21,17 +21,27 @@ O objetivo principal dessas ferramentas foi substituir o uso de calculadoras man
 Ferramenta para automatizar o fechamento de períodos aquisitivos.
 * **O Problema:** O cálculo exigia digitação manual constante de datas, com auxilio de sofwares contadores desatualizados sujeitas a falhas durante a contagem pelos servidores do setor.
 * **A Solução:** Uma interface limpa onde o usuário insere a *Data Inicial* e a *Data Limite*. O sistema processa e exibe uma tabela de resultados clara, pronta para uso em processos.
-* **Demonstração:**
+
+<strong>
+  <h3 align="center">Demonstração</h3>
+</strong>
   
-  ![Demonstração Triênios](gif1.gif)
+<p align="center">
+  <img src="gif1.gif" width="450" alt="Demonstração Triênios">
+</p>
 
 ### 2. Calculadora ATS (Adicional por Tempo de Serviço)
 Software focado em consolidar tempos de serviço de forma rápida e segura.
 * **O Problema:** A soma de diferentes períodos causava confusão e retrabalho durante o processo manual.
 * **A Solução:** Uma aplicação que permite a inserção das datas e gera um relatório compilado na mesma tela, garantindo a contagem exata.
-* **Demonstração:**
+
+<strong>
+  <h3 align="center">Demonstração</h3>
+</strong>
   
-  ![Demonstração ATS](gif2.gif)
+<p align="center">
+  <img src="gif2.gif" width="450" alt="Demonstração ATS">
+</p>
 
 ---
 
