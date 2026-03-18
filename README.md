@@ -7,7 +7,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório é uma **demonstração visual (showcase)** de duas aplicações desktop desenvolvidas para modernizar e trazer precisão aos cálculos em ambientes de administração pública.
+Este repositório é uma **demonstração visual (showcase)** de duas aplicações desktop desenvolvidas durante o meu estágio na SEDUC. Elas foram criadas com o objetivo de modernizar e trazer precisão aos cálculos em ambientes de administração pública.
 
 O objetivo principal dessas ferramentas foi substituir o uso de calculadoras manuais e com softwares já desatualizados, eliminando o risco de erros de digitação e cálculos incorretos. Com interfaces diretas e focadas na usabilidade do setor administrativo, as aplicações garantem agilidade na rotina dos setores.
 
